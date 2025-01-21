@@ -16,5 +16,8 @@
     "url": "https://github.com/alessandrasinigaglia/express-blog-intro/issues"
   },
   "homepage": "https://github.com/alessandrasinigaglia/express-blog-intro#readme",
-  "description": "Blog"
+  "description": "Blog",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
